@@ -677,4 +677,12 @@ html,body{
     width: 100%;
     object-fit: cover;
     opacity: 0;
-}
+} 
+@media(max-width:480px){
+    #main{
+        width = 
+    }
+    @media(max-width:320px){
+    #main{
+        width = 
+    }
